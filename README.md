@@ -21,6 +21,8 @@ Função: Acessa o MySQL usando o usuário root.
 - Função: Ele deleta informações no banco de dados
 - UPDATE
 - Função: Modificar dados que já existem dentro de uma tabela
+- PRIMARY KEY;
+- Função: É uma coluna ou grupo de colunas que serve como um identificador único para cada linha de uma tabela
 # ⚠️Importante:
 - Sempre terminar os códigos com ;
 - antes de criar a tabela, normalmente você precisa selecionar o banco
